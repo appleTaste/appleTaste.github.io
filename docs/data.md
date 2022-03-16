@@ -56,6 +56,18 @@ Example of a dev tool:
   weight: 3
 ```
 
+## db.yml
+
+* `name`: Name of your dev tool
+* `weight`: Describes how good you know the tool - values from 1 up to 5
+
+Example of a dev tool:
+
+```yml
+- name: Git
+  weight: 3
+```
+
 ## timeline.yml
 
 * `title`: Name of your timeline entry, university or work place

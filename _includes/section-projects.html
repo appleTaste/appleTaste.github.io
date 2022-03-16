@@ -7,9 +7,9 @@
           <h3>{{project.name}}</h3>
         </div>
         <p class="project-desc">{{project.descr}}</p>
-        {% if project.demo %}
-          <a class="highlight-link" href="{{project.demo}}" target="_blank" rel="noreferrer">
-            Demo
+        {% if project.site %}
+          <a class="highlight-link" href="{{project.site}}" target="_blank" rel="noreferrer">
+            VISIT SERVICE!!
           </a>
         {% endif %}
         {% if project.tags %}
@@ -24,7 +24,7 @@
   </div>
 {% endif %}
 
-{% if site.show_os_projects %}
+<!-- {% if site.show_os_projects %}
   <h1 class="title">{{site.os_projects_title}}</h1>
   {% if site.projects.sort_by == 'stars' %}
     {% assign sort_order = 'stargazers_count', 'last' %}
@@ -88,6 +88,6 @@
       {% endunless %}
     {% endfor %}
   </div>
-{% endif %}
+{% endif %} -->
 
 

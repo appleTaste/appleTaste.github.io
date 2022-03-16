@@ -17,45 +17,34 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: 더조은 컴퓨터학원
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  date: 2020.01 ~ 2020.07
+  subtitle: 빅데이터 플랫폼 개발자 과정 수료
   tags:
-    - tag: React
+    - tag: Spring
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Python
+    - tag: Hadoop
   timeline-side: right
 
-- title: Google
+- title: 케이비앤시
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: 2020.10 ~ 2021.05
+  subtitle: SCM 관리자 페이지 개발
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Spring
+    - tag: Java
+    - tag: jsp
   timeline-side: left
 
-- title: Facebook
+- title: 아이컴시스
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+  date: 2021.05 ~
+  subtitle: 음성봇 솔루션 / LG CNS 파견(2021.08~2022.01)
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Springboot
+    - tag: Java
+    - tag: Vuejs(vuetify)
+    - tag: Golang
   timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left

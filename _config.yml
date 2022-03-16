@@ -7,26 +7,26 @@ title: 사과맛포도의 개발일기
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-url: "/"
+url: ""
 # baseurl: "/neumorphism"
-baseurl: "/"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
 username: appleTaste
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: delevoper's life
 # email: Your E-Mail address for the email button.
-email: leejj2468@gmail.com
+email: leejj9612@naver.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: appleTaste
-codepen_username: appleTaste
-dev_username: yellowbim
-linkedin_username: 이거는 있는데 몰랑
-twitter_username: 업쪙
+github_username: yellowbim
+codepen_username: yellowbim
+dev_username: 이정준
+# linkedin_username: 이거는 있는데 몰랑
+# twitter_username: 업쪙
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,9 +34,9 @@ twitter_username: 업쪙
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: I'm turtle
+about_me_title: 이정준이라는 사람은...?
 # about_me_description: This will be displayed under the title.
-about_me_description: 배움이 느린 거북이입니다.
+about_me_description: "장점 \n1. 남들보다 습득력이 빠르다. \n2. 욕심이 많다. \n3. 노력을 많이한다. \n \b단점\n"
 
 # SKILLS SECTION
 # show_skills_card:

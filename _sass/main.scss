@@ -733,17 +733,22 @@ a {
     }
 
     input[id="language"]:checked ~ div[skill-type="framework"],
-    input[id="language"]:checked ~ div[skill-type="tool"] {
+    input[id="language"]:checked ~ div[skill-type="db"] {
       @include filter-out;
     }
 
     input[id="framework"]:checked ~ div[skill-type="language"],
-    input[id="framework"]:checked ~ div[skill-type="tool"] {
+    input[id="framework"]:checked ~ div[skill-type="db"] {
       @include filter-out;
     }
 
     input[id="tool"]:checked ~ div[skill-type="language"],
-    input[id="tool"]:checked ~ div[skill-type="framework"] {
+    input[id="tool"]:checked ~ div[skill-type="db"] {
+      @include filter-out;
+    }
+
+    input[id="db"]:checked ~ div[skill-type="language"],
+    input[id="db"]:checked ~ div[skill-type="framework"] {
       @include filter-out;
     }
   }
