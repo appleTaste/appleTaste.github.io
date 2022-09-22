@@ -24,8 +24,8 @@ email: leejj9612@naver.com
 # > twitter_username:
 github_username: yellowbim
 codepen_username: yellowbim
-dev_username: 이정준
-# linkedin_username: 이거는 있는데 몰랑
+# dev_username: 이정준
+linkedin_username: 이정준
 # twitter_username: 업쪙
 
 # ABOUT ME SECTION
@@ -52,7 +52,7 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: 걸어온길
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: https://example.com/
@@ -67,7 +67,7 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: 진행한 프로젝트
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
