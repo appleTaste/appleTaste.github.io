@@ -13,9 +13,29 @@
 #     - tag: AngularJS
 #     - tag: Node
 
+- name: 신한은행 불완전판매
+  descr: "서버 및 화면 개발"
+  # site: https://example.com/
+  tags:
+    - tag: Linux
+    - tag: Docker
+    - tag: eclipse
+    - tag: vuejs
+    - tag: GitHub
+
+- name: AI 우리가게 매니저
+  descr: "음성 처리 솔루션 개발"
+  # site: https://example.com/
+  tags:
+    - tag: Linux
+    - tag: Centos7
+    - tag: Golang
+    - tag: vscode
+    - tag: GitLab
+
 - name: Cine Square
   descr: "왓챠 피디아 clone coding"
-  site: http://cinesquare.yahmedora.com:3000/
+  site: http://cinesquare.slowtuttle.co.kr:8088/
   tags:
     - tag: Spring
     - tag: Java
